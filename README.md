@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=7C9CFF&center=true&vCenter=true&width=600&lines=Patryk+Makuch;TypeScript%2C+Vue%2C+NestJS;Freelancing+from+Krak%C3%B3w" alt="Patryk Makuch" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=7C9CFF&center=true&vCenter=true&width=600&lines=Patryk+Makuch;Python%2C+TypeScript%2C+DevOps;Building+things+for+the+web" alt="Patryk Makuch" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,vue,nuxt,nextjs,nestjs,nodejs,postgres,docker&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,ts,vue,nuxt,nextjs,nodejs,postgres,docker,aws&theme=dark" alt="Tech stack" />
 
 <br/><br/>
 
@@ -14,10 +14,6 @@
 <img src="https://streak-stats.demolab.com?user=makuchpatryk&background=0D1117&ring=7C9CFF&fire=7C9CFF&currStreakLabel=7C9CFF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&stroke=30363D&hide_border=true&border_radius=10" alt="Commit streak" />
 
 <br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=makuchpatryk&bg_color=0d1117&color=8b949e&line=7c9cff&point=c9d1d9&area=true&area_color=7c9cff&hide_border=true&radius=10" alt="Contribution graph" />
-
-<br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/makuchpatryk/makuchpatryk/output/github-snake-dark.svg" alt="Contribution snake" />
 
