@@ -17,8 +17,4 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/makuchpatryk/makuchpatryk/output/github-snake-dark.svg" alt="Contribution snake" />
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/makuchpatryk/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7c9cff" alt="LinkedIn" /></a>
-
 </div>
