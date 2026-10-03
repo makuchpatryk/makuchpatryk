@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/makuchpatryk/makuchpatryk/output/bomberman-contribution-graph-dark.svg" alt="Bomberman contribution graph" />
+<img width="100%" src="https://raw.githubusercontent.com/makuchpatryk/makuchpatryk/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" />
 
 <br/><br/>
 
