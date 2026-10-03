@@ -1,4 +1,4 @@
-name: Generate contribution animations
+name: Generate contribution graph
 
 on:
   schedule:
