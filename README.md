@@ -15,11 +15,7 @@
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/makuchpatryk/makuchpatryk/output/github-snake-dark.svg" alt="Contribution snake" />
-
-<br/><br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/makuchpatryk/makuchpatryk/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" />
+<img width="100%" src="https://raw.githubusercontent.com/makuchpatryk/makuchpatryk/output/bomberman-contribution-graph-dark.svg" alt="Bomberman contribution graph" />
 
 <br/><br/>
 
