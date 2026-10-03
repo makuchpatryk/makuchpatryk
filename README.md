@@ -23,10 +23,6 @@
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/makuchpatryk/makuchpatryk/output/bomberman-contribution-graph-dark.svg" alt="Bomberman contribution graph" />
-
-<br/><br/>
-
 <a href="https://makuchpatryk.com"><img src="https://img.shields.io/badge/Portfolio-makuchpatryk.com-7c9cff?style=for-the-badge&logoColor=7c9cff" alt="Portfolio" /></a>
 
 </div>
