@@ -20,5 +20,6 @@
 <br/><br/>
 
 <a href="https://makuchpatryk.com"><img src="https://img.shields.io/badge/Portfolio-makuchpatryk.com-7c9cff?style=for-the-badge&logoColor=7c9cff" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/makuchpatryk"><img src="https://img.shields.io/badge/LinkedIn-makuchpatryk-7c9cff?style=for-the-badge&logo=linkedin&logoColor=7c9cff" alt="LinkedIn" /></a>
 
 </div>
