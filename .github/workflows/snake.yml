@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate contribution animations
 
 on:
   schedule:
@@ -19,6 +19,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#7c9cff
+
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman,bomberman
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
